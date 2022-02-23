@@ -6,7 +6,7 @@
 일출 때 본 바다의 색과 불규칙적인 모습이 좋아서 바다 그래픽을 도전했습니다.
 ![Composition](https://user-images.githubusercontent.com/43169708/155162591-cc60942f-4c28-412c-82d3-39ccdc43ff2e.png)  
 (2020 - 게임공학과 졸업작품 - DirectX12)  
-소개 : https://patch-swim-8ba.notion.site/586a441dc1a646e09e985757537ab7c5  
+소개 : https://patch-swim-8ba.notion.site/52d31dfe863e464b877f21ddee62f2eb  
 유튜브 : https://youtu.be/SxAnNKOG6s8  
 
 ### 가상현실(VR) 공연  
