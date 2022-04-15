@@ -1,12 +1,12 @@
 # 말로는 전달할 수 없는 것  
 컴퓨터 그래픽스를 이용하여 새로운 세계를 창작하는 것에 재미를 느낍니다.  
-소개 : https://patch-swim-8ba.notion.site/Jong-Hyuck-Graphics-Programmer-1a0f4f9f59a24b20b0a92cda1d327180  
+소개 : https://blueboy-i.notion.site/
 
 ### 캐리비안 전투  
 일출 때 본 바다의 색과 불규칙적인 모습이 좋아서 바다 그래픽을 도전했습니다.
 ![Composition](https://user-images.githubusercontent.com/43169708/155162591-cc60942f-4c28-412c-82d3-39ccdc43ff2e.png)  
 (2020 - 게임공학과 졸업작품 - DirectX12)  
-소개 : https://patch-swim-8ba.notion.site/52d31dfe863e464b877f21ddee62f2eb  
+소개 : https://blueboy-i.notion.site/52d31dfe863e464b877f21ddee62f2eb
 유튜브 : https://youtu.be/SxAnNKOG6s8  
 
 ### 가상현실(VR) 공연  
