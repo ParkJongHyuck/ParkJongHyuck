@@ -24,5 +24,7 @@
 게임, 음악, 그림 등 다양한 창작 활동에 관심이 많습니다.  
 그러다보니 창작의 어려움과 현실 속 타협에 대해서 자주 느낍니다.  
 많은 사람들이 자유롭게 창작할 수 있는 세계에 관심이 있습니다.  
+인디게임 창작자 팀빌딩 플랫폼 "만들래" 를 준비하고 있습니다.
+https://mandlemandle.com
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkJongHyuck&count_bg=%233D7CC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
